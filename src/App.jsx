@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
+// import viteLogo from '/vite.svg'gi
 import './App.css'
 import { puppyList } from './data.js';
 import { useState } from 'react';
