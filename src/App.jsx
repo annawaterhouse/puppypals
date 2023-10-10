@@ -12,7 +12,11 @@ function App() {
   console.log(puppyList);
   return (
     <div>
-
+{
+  puppies.map((puppy) => {
+    return <p>{puppy.name}</p>
+  })
+}
     </div>
   )
 }
